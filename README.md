@@ -34,3 +34,11 @@ This Power BI dashboard analyzes employee salary data to provide insights into w
 - Slicers
 - Dashboard Design
 - Business Analysis
+
+## 👩‍💻 Author
+
+**Shreyashwini Acharya**
+
+- Power BI Developer | Data Analytics Enthusiast
+- Microsoft PL-300 Certified
+- Currently learning SQL, Power BI, Python, and AI
