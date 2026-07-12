@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This Power BI dashboard analyzes employee salary data to provide insights into workforce distribution and salary trends across departments and cities.
+
 ![Dashboard](Dashboard.png)
 
 ## 🛠️ Tools Used
